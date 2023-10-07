@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "random": "c",
+        "*.inc": "c",
+        "stdio.h": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "string": "c"
+    }
+}
